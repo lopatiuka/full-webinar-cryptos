@@ -1261,9 +1261,14 @@ footer .bottom-links-container .bottom-links .rights a {
     flex-direction: column;
   }
 
+
   footer .container .footer-top-container .footer-top .inner-footer-top {
     width: 100%;
     flex-direction: column;
+  }
+
+  footer .container .footer-top-container .footer-top .inner-footer-top .first-line {
+    margin-top: 15px;
   }
 
   footer .container .footer-top-container .newsletter form input {
